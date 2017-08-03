@@ -1,0 +1,17 @@
+information file for 
+machine name = Insight3
+camera head model = Insight3
+recording mode = fixed number of frames
+CCD mode = frame-transfer
+data type = 16 bit integers (binary, big endian)
+frame rate (Hz) = unknown
+exposure time (s) = unknown
+vstart=1
+vend=256
+hstart=1
+hend=254
+hbin=1
+vbin=1
+frame size = 65024
+CCD gain = unknown
+number of frames = 1

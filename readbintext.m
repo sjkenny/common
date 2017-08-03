@@ -25,7 +25,7 @@ bg = (A(:,11));
 I = (A(:,12));
 
 
-N=numel(x)
+N=numel(x);
 cat = (A(:,1));
 valid = (A(:,16));
 frame = (A(:,13));
